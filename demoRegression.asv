@@ -15,6 +15,7 @@ coor=U(:,2:3);
 G=gsp_graph(D,coor);
 
 %% 
+
 figure
 plot(X,y,'ob');
 hold on;
